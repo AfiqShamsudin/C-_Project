@@ -44,6 +44,8 @@ private slots:
     // void updateUI (const QPoint $pos, int score );
 
     /// Please continue here
+    /// Yess Hello
+
 private:
     Ui::typeB *ui;
     QVector<QPoint> points; // Marking point's
