@@ -43,6 +43,7 @@ private slots:
     // void drawIndicators_TypeB (QPainter &painter);
     // void updateUI (const QPoint $pos, int score );
 
+    /// Please continue here
 private:
     Ui::typeB *ui;
     QVector<QPoint> points; // Marking point's
